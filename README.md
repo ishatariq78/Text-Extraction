@@ -28,5 +28,5 @@ The tool also includes a method for directly extracting text from PDFs while pre
 3. The tool will process the file and save the extracted text to a JSON file.
 
 # Future Improvements
-1. Train Tesseract with custom layouts using a dataset of at least 200 PDFs and their corresponding texts.
+1. Train Tesseract with custom layouts using a dataset of images and their corresponding texts.
 2. Consider using Docker for training on Ubuntu or using a GUI for training on Windows.
